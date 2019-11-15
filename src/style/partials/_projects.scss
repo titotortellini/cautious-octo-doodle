@@ -1,0 +1,13 @@
+.portfolio-items-wrap {
+  display: flex;
+  .portfolio-item {
+    border: 1px solid $blk;
+    padding: 1em;
+    a {
+      text-decoration: none;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+}

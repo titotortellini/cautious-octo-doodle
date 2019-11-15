@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+@import "variables";
+
+@import "partials/global";
+@import "partials/navbar";
+@import "partials/footer";
+@import "partials/projects";
