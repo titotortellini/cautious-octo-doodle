@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/titotortellini/cautious-octo-doodle/static/css/main.92a7f898.chunk.css",
-    "main.js": "/titotortellini/cautious-octo-doodle/static/js/main.d30ab58a.chunk.js",
-    "main.js.map": "/titotortellini/cautious-octo-doodle/static/js/main.d30ab58a.chunk.js.map",
-    "runtime-main.js": "/titotortellini/cautious-octo-doodle/static/js/runtime-main.17146e93.js",
-    "runtime-main.js.map": "/titotortellini/cautious-octo-doodle/static/js/runtime-main.17146e93.js.map",
-    "static/js/2.f6b3e6dd.chunk.js": "/titotortellini/cautious-octo-doodle/static/js/2.f6b3e6dd.chunk.js",
-    "static/js/2.f6b3e6dd.chunk.js.map": "/titotortellini/cautious-octo-doodle/static/js/2.f6b3e6dd.chunk.js.map",
-    "index.html": "/titotortellini/cautious-octo-doodle/index.html",
-    "precache-manifest.966071896db3fd1ed22406e193f0abbf.js": "/titotortellini/cautious-octo-doodle/precache-manifest.966071896db3fd1ed22406e193f0abbf.js",
-    "service-worker.js": "/titotortellini/cautious-octo-doodle/service-worker.js",
-    "static/css/main.92a7f898.chunk.css.map": "/titotortellini/cautious-octo-doodle/static/css/main.92a7f898.chunk.css.map",
-    "static/media/tw2.svg": "/titotortellini/cautious-octo-doodle/static/media/tw2.c0bd1145.svg"
+    "main.css": "/cautious-octo-doodle/static/css/main.92a7f898.chunk.css",
+    "main.js": "/cautious-octo-doodle/static/js/main.43443571.chunk.js",
+    "main.js.map": "/cautious-octo-doodle/static/js/main.43443571.chunk.js.map",
+    "runtime-main.js": "/cautious-octo-doodle/static/js/runtime-main.86a60f54.js",
+    "runtime-main.js.map": "/cautious-octo-doodle/static/js/runtime-main.86a60f54.js.map",
+    "static/js/2.f6b3e6dd.chunk.js": "/cautious-octo-doodle/static/js/2.f6b3e6dd.chunk.js",
+    "static/js/2.f6b3e6dd.chunk.js.map": "/cautious-octo-doodle/static/js/2.f6b3e6dd.chunk.js.map",
+    "index.html": "/cautious-octo-doodle/index.html",
+    "precache-manifest.38f3dce964aa52335940945bfbb3dc70.js": "/cautious-octo-doodle/precache-manifest.38f3dce964aa52335940945bfbb3dc70.js",
+    "service-worker.js": "/cautious-octo-doodle/service-worker.js",
+    "static/css/main.92a7f898.chunk.css.map": "/cautious-octo-doodle/static/css/main.92a7f898.chunk.css.map",
+    "static/media/tw2.svg": "/cautious-octo-doodle/static/media/tw2.c0bd1145.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17146e93.js",
+    "static/js/runtime-main.86a60f54.js",
     "static/js/2.f6b3e6dd.chunk.js",
     "static/css/main.92a7f898.chunk.css",
-    "static/js/main.d30ab58a.chunk.js"
+    "static/js/main.43443571.chunk.js"
   ]
 }
